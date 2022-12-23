@@ -1,0 +1,807 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 20
+npc:
+  '0':
+    metadata:
+      cached-skin-uuid: 191f2492-6d48-491a-ab95-f77edafd4c40
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: vortmort
+      minecraft-ai: false
+    name: s
+    uuid: 9d7fede1-26a9-4e17-be08-36627f5b03f9
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: 108.80242
+        world: world
+        x: '164.5'
+        y: '81.5625'
+        z: '68.5'
+        yaw: '108.8024'
+        pitch: '67.0607'
+      age:
+        age: 0
+        locked: true
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      skintrait:
+        fetchDefaultSkin: true
+        signature: AKOsZ5eV7/WaVMv/QmZn19SpnMIVO8wu4BxWT4+hrWsyfXn9rge1/1d88VlUt1ZNjhMrgAoOssjWUW4FT2Z/HqyV9wUzFWrAJ6XvOa7eN+D/4RFdpDV4mYre19jX6wtvObvfIu7E2WZqj2+s6rrqbwNUYoGMDfqPQJt7kmA+Vz/Vdb+zdGTKSTZ3M2vqD1wOkyncBMWr7A14h/X/BUOHAMbtLABCej22D1pWIft9ZBHyteDiwI8QDbG6Be5pG9kKVm4jiHk27KgqdUze/WhvloJprKWA9NLoHlcsTo5HLmnN+AoK0aTEVAjvD5ykp4pvHJx7G/7M/R6615IVsYHSfxEIf2Xsndxn4QyrUqIrLEGSzZLg1QYXdvQxlldcoSsBNpgJpP8b/uuqqZTE61Xz190f2+FogQG0CnKdJ4AQyLjYNTkX1hFC/ARyTHbBBX4xZAMqErMy4/b9DKPkPZdpQv9PGdogNNNRTCqkiyOb29DKveTea7hRX8rHH6t67B4Al0WWY3aBzT4nSDYjZrlUoE4ReLnP93ip23xQiruN+TCbKGX9sO8bAxQILZLKXeXc+/LGAvlkzXG4JRJgSxR/Pfql0WoC3oAkjNC+e3hYFkKxcABL1qJdH7ePbXDu0quKK8qo/WArEMTPcA3HNgRfP14QrzPrPPl150twvkt96Bo=
+        skinName: VortMort
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODU3NzAxODM2MiwKICAicHJvZmlsZUlkIiA6ICIxOTFmMjQ5MjZkNDg0OTFhYWI5NWY3N2VkYWZkNGM0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0TW9ydCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OWM1Mzg4MDJlNDBiZjc0YjcwYzI1M2Y1NjNiMGJkNjNmZTQ5OTAxMWI2M2MwYTcyMTM3YzM1MzcwMDcwM2U3IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      spawned: true
+      sleeping:
+        sleeping: true
+        bed location:
+          world: world
+          x: '164.2753'
+          y: '81.5625'
+          z: '68.7'
+          yaw: '108.8024'
+          pitch: '67.0607'
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+    traitnames: type,age,skintrait,owner,skinlayers,scoreboardtrait,sleeping,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    metadata:
+      cached-skin-uuid: bab79e7e-8088-42fd-a18f-98fe9923a294
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: sean_on60hz
+      removefromplayerlist: false
+    name: sean
+    uuid: 2b7e6d88-66ba-4243-910d-11233de466b0
+    traits:
+      age:
+        age: 0
+        locked: true
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      skintrait:
+        fetchDefaultSkin: true
+        signature: Yqt9j+0oDXnbInbnln5DErGD7VIZbWmeo6yjqXXi/9saSXQASf9hJBTjF4Nd8mChwlsQa8XtU8FbW1zZ+5Cbom/KY3FW4y5UdMGxiBIN9AIKy87snahAz4LLOnQazW6+2eFFV+tLhnKgm3oS7vHWvaz/qGFxzhtaKQxWPtSnTKng1W0HmhlAutU8RiRoSgAh9BeBu6A6nz/H0ChVq4dMB3SbE3iFRZUzJjwUFp126QWaPNqqoOaU7zTozIblK7jCLZiuayS4g50IcjhJufykzoQ0Z16/pcF3xrPNKnX73jGpe2Zlt7Or2+SgGCXkXST2bDwqkttXAfAGrqVaCRFkoP+y8TzyKFdwWrv41FMDoBZz5gmwPPRIIal7lkOecU6oWvVhlZmeM//cv4ipL0OPvcLBzFneNCssep8jQq0GlSK10/Z491Cov2rHMSDHgHIeYD7Quvo7UY3wxWHlKz228RyFS61ZnSKQaC3MIIflW4nGaP89bCsmMIXjETKtOzTSBlv++9aUyGdYe7/WGw8qT8ZeQ9q90R4txEy4lTSl2rkfZbkvS9ixOeZ5GOZOTioaBhE58M5tRCnWqQ8iMhu8iiw9BaX1/ZJO90JMY3wCzs+zr90XH8MzP5dDBJ7Vgn9TA+2l/qGfOh89lxNxmP/75cfoCpMS9BqN+B75zddDNIc=
+        skinName: sean_on60hz
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI0NDkxMDI5NSwKICAicHJvZmlsZUlkIiA6ICJiYWI3OWU3ZTgwODg0MmZkYTE4Zjk4ZmU5OTIzYTI5NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzZWFuX29uNjBoeiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YWJjNTBiZjhlYWRhNTI3MWM0OWNmYmRhZjllMjAzN2Y1NTI4OTcwMzU2NmI1NjVjM2I4MzQzMDE3YjMxZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+        updateSkins: false
+      spawned: true
+      type: PLAYER
+      sleeping:
+        sleeping: true
+        bed location:
+          world: world
+          x: '138.5924'
+          y: '73.5625'
+          z: '24.3091'
+          yaw: '-79.5359'
+          pitch: '69.3511'
+      location:
+        bodyYaw: -79.53587
+        world: world
+        x: '138.5'
+        y: '73.5625'
+        z: '24.5'
+        yaw: '-79.5359'
+        pitch: '69.3511'
+      invisible: true
+    traitnames: type,age,skintrait,owner,scoreboardtrait,sleeping,spawned,invisible,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      cached-skin-uuid: 86c84bce-c2c9-460d-bdb7-3cc20c793b42
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: ninjadon8
+      removefromplayerlist: false
+    name: ninjadon9
+    uuid: 3b1373d6-7bc7-4bb2-af54-bdfb1c94fae1
+    traits:
+      age:
+        age: 0
+        locked: true
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      skintrait:
+        fetchDefaultSkin: true
+        signature: xHEBkoJ2V24UAjFgRHoBSWe9IKRsR+b1pTRQLcRCFyh6veQjJISNYo4/6MJ2ysb51y+3KS+4Us7aMg6AsVej6Of3DDi+rY9yI3Gkp3w7Iuba/h3v0pOemzk4juu0kMO2Jqy7KT9sn79c1mgThDnCHr/dYc8wkRO2kded3ZhQHtTvHhUaiOFB1RzPRVhCWxmSA70l4svMI3waWOq/SREUUZ4f7dBsumlNAGBIdTYEUnqOlVzKq6DSDEw2GmFY4CRrPv2qc7Pztr57sStiFEu/H/AfjPgc3RSpDIYrXGexspo/uipDNi4LwAz2JwpDAo5dA5ok+4zDC6vJgVhRchxQnzGw1o3gQdA4hpTwAwAoMPQkJo09Hl6/tRGwebF4IMflaS8mInTHT66dOkPspE5Pj0249yRbJFjkf0qGMW2k2U1z0sw94ayUJeaUoypKTT2n/x7ML/ICtsW7BTBm/h3L8Vb/VFEWAQj829UodrzDRjsd0I8DjPd0U2zS4SpSlr+engaWjk5eppTWgFR1c7tNxQeagnYCzJnOBTdRNT9rWUqJN/0C/QcFaKHTemgVMEUfI4obBIXq0Og3BsUfSHUVHxbD/I2+vvMmWRTr/7F9waNcTtnbDRUN/mx8Oq+RoIvomRHAWP9QRDg4+ops/uBDcye8WBkt6OfsO5gSyj9uQa4=
+        skinName: ninjadon8
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI0NDUzMzQzMywKICAicHJvZmlsZUlkIiA6ICI4NmM4NGJjZWMyYzk0NjBkYmRiNzNjYzIwYzc5M2I0MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaW5qYWRvbjgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2U0NTQzNWU2NzdmODYyMDZlZTZjYjAzZThlMTRhMzUwOWM3MWVhNjg1ZjllN2U3NjNmNzY5MDY2Njg5NDk3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9
+        updateSkins: false
+      spawned: true
+      type: PLAYER
+      sleeping:
+        sleeping: true
+        bed location:
+          world: world
+          x: '154.4248'
+          y: '81.0'
+          z: '39.3003'
+          yaw: '172.9177'
+          pitch: '58.969'
+      location:
+        bodyYaw: 172.9177
+        world: world
+        x: '154.5'
+        y: '81.5625'
+        z: '39.5'
+        yaw: '172.9177'
+        pitch: '58.969'
+      invisible: false
+      inventory:
+        '33':
+          type_key: music_disc_13
+          amount: 1
+    traitnames: equipment,type,age,skintrait,owner,scoreboardtrait,sleeping,invisible,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      cached-skin-uuid: aca39474-1a5f-425e-8d8f-21899b63fa6c
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: ibloc
+      removefromplayerlist: false
+    name: blxblu
+    uuid: eb8d82a6-2495-40a1-a182-6ae969f61edf
+    traits:
+      age:
+        age: 0
+        locked: true
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      skintrait:
+        fetchDefaultSkin: true
+        signature: N8683arq86VtnVRpBClK31lkcUBasaUeiqjIHSOtzlVCfSHITrANHbguJUJlGPm5uMOsJ+qsQ/vmD5XW98N8mdKhY74ZZSHfY00I3YNcG+Vy57ke3UdKNJGQUjkoZ7aYGMI0pdajgd66Fi+2wJhNOj3MbxTVYqMQ+zV9ejBb28nVsRnVhNGIO0vPtl7liOTZo92CrAxxfopsu7uTsrGQ41/27zuid3OH1qJaJqQ/vG+nDVbH8v9id/Q+wFLnIpyYWtgF+IQqrySllppPPfBPtzvccbY2oXuIaFdYSp+V3lnAh7tj4gwaMysc6YeJhot9BTWiWZ12W8wq0i4WOFK0PzaIBt+wvrkhZwOj0q5HtqQZnbcUH1o5+/rbRfWiJ3hSlPL9VwcZ79vEOQAmb2+KP1aE8FNfiNePCPZMvde4oxwNrPjKVdARLlAcm08ZOyGPtX1ILOmuRhiV55C//p1oNFUxxoliVshMUwOwgX29+uHNNBQ1nw2BKSgYiy2GtpNwTWKPPRQTWHnQ4ZEJbH4wVlhCAhFnPORQb73yFV1//5ZM2SlE/wFN4soizgRXYDhAMyzpl+aFO9+8cmv2D4frwKEOyR0F9fIsnQ+bfBFGFA6aI9+hykai5fgCvlXfi3fFM/n7iKLWfMoj17gR51TpXoGDTmypLQz0YX/Rk79FZm0=
+        skinName: ibloc
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI0NDkzODYzMSwKICAicHJvZmlsZUlkIiA6ICJhY2EzOTQ3NDFhNWY0MjVlOGQ4ZjIxODk5YjYzZmE2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpYmxvYyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYjIxMjI2MGZlOWZjMWJmZDdkYmUzNDY3ODY5NzJiMWQ5ZDA2NjEyZTZlNGMwMjU3ZjRiNjFiMzMwY2RhOTdiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+        updateSkins: false
+      spawned: true
+      type: PLAYER
+      sleeping:
+        sleeping: true
+        bed location:
+          world: world
+          x: '140.6491'
+          y: '80.5625'
+          z: '7.2498'
+          yaw: '86.1895'
+          pitch: '54.5051'
+      location:
+        bodyYaw: 86.189545
+        world: world
+        x: '140.5'
+        y: '80.5625'
+        z: '7.5'
+        yaw: '86.1895'
+        pitch: '54.5051'
+      invisible: true
+    traitnames: type,age,skintrait,owner,scoreboardtrait,sleeping,spawned,invisible,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    metadata:
+      cached-skin-uuid: ed33135e-b04f-41c0-bf3e-7446a4cefda9
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: nohaxjustmyreef
+    name: uliquy
+    uuid: c5f1d6fb-8a21-4e43-995d-ac63430f8adf
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: gEnEKliq+VHwcFf8xrXcHncwZiRH64z1p1jWIjYTDGB4ZxCIO3//a+d2QL8Nss2TL/gB+r9PprKOIRjF0U9XxfXoDktCTfjFQkjbl4/4yJxLVE7jtKv9n3aRRA5Y1F4DmUPwYJOkQjHy0ZpYBFuClmoyN+lWCO8cxtPTZJnrvaRBe7Hid2sDCBlAbw/rY+83l6BiVRp+8XIuRkX5BsWWBht35tg/JQrHuv4rIIc1P4Jn970AMULPcmo8/bthxlmX4RJxzPKzdSA2k597inNpFZhObIWxxqjSWf3Ciq6NP1q8XL6oo+Gbbnm6QwgQ+uBwSr+8jsNLAEu1FEW5uimy78BJJtobpWwXbD0+WOXaHfTzTAPvX0L0hiotZYiiD5h8Hf1RqP9OxvtlmSmzCwmmLVKIqlVFpJAxpsLaYSHYM8MZsONKA20e1sfzDJ41M7KGTZJEDeTB7WM7BLCP5qAxc3I78YhhBLNsoNessom5SZUqqKDlzPYoO467WL6K1TxuggzVOw46fyo6armCZlMPZJ3AcR9jgnYN3vPxewS/gFG+w222WIYrYgQ/dQ7c0QOq2NTrdptO/bsXDwTQrBC3Z7gKiwM0OHP91xUUFykx3OYO5ca9rQs0tVyeK5eSIWsegPQOah7+oeQmUMCXMMAM5ebvn6a149f8m3HhtRKDxnQ=
+        skinName: NoHaxJustMyReef
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1NTQwMjAwMiwKICAicHJvZmlsZUlkIiA6ICJlZDMzMTM1ZWIwNGY0MWMwYmYzZTc0NDZhNGNlZmRhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb0hheEp1c3RNeVJlZWYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM3ZGZiODI0Y2FjNWViMGYzY2JmYmI1ZGFmODA0MDQ5OGE4OGI2ZDRiMmQ3YjlhYmUxNjc3NTIzNjRlNjc2ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+        updateSkins: false
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world
+                x: '99.0'
+                y: '68.0'
+                z: '62.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '118.0'
+                y: '69.0'
+                z: '52.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '138.0'
+                y: '70.0'
+                z: '66.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '134.0'
+                y: '74.0'
+                z: '92.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 269.98676
+        world: world
+        x: '112.7'
+        y: '67.75'
+        z: '54.5002'
+        yaw: '-90.0132'
+        pitch: '10.7356'
+    traitnames: type,age,skintrait,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      cached-skin-uuid: b891f6f9-b812-4173-961d-12353b2c7747
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: yeetmewto
+    name: Max
+    uuid: 05bfe57f-091a-494a-a425-a86c972d0796
+    traits:
+      skinlayers:
+        cape: false
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      skintrait:
+        fetchDefaultSkin: true
+        signature: Oj1WJaXoiho8nidmh2XqztGr1S/VXpHkc96Cb+wuZ/pxHSoGFiQ64BgGhAPuTNLJQxN9++Lw7B5rv0kwEsQcp8F9+9oZPduYLmxoBQq0QiPUeS9PF6D4+T3HY5odY7GqJ+HAW5bRhKBLScAi6uylmspmhQ7V4/Ym8FFjho7ujC8hTlB3w9FINn52XHIwCMCWQHPC796Wf0sxryQrwtjazgYJTQMyvStKNWOpjsGbWG/0hGK2awiM5zzYr6Ykg2gJ3CNXPm2sYcKSAMnwxq2iRKv3XZo/AWnoGjdihkpVqMJqAv5tpeCmcZu+VCeAFspx6guKUheR2vTrJfb/KMjmRUdbTg6T6IjkUg5Oz9EKW83GUQVPtO8uds4NKDo/sDrD3b6bHBBdSSMzrPED9Cumf1cjvgOV//TvYfrQqTec4ttrVbtRHAnSBpAcsN1/08MfTMY0bT2pv8/PhEFFXp0hJQJPiIb+CkzTrv44kErDUYBGhH/hjNJNWEZuXCdDMcsaEk8+mFnaqjmFUIIpEokUAySa4dB0E7CopKcgTPHMcCNvqsOHY1JEbjP1HQZujAP9GvA8F24t7PxYBnSXXGgPCL4UUPQBz6EbuGRkqo+F+Ob8Bqsf2RWXJYxENbitCDuig08lgUl7rdsmeOqO/uzS2RnHmcZNBXPru82sY8/yrOc=
+        skinName: Yeetmewto
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1NDk5NDI5NSwKICAicHJvZmlsZUlkIiA6ICJiODkxZjZmOWI4MTI0MTczOTYxZDEyMzUzYjJjNzc0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWV0bWV3dG8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFiOThmMDE2NWU1MTQyNzcyMDA0MGQyMTJjNTRlMGU2MGIyNGUzNThkYThkNWFhYjlkYjA0NjA2ODc0MTYzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world
+                x: '114.0'
+                y: '69.0'
+                z: '96.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '97.0'
+                y: '68.0'
+                z: '84.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '115.0'
+                y: '68.0'
+                z: '71.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 5.0354004E-4
+        world: world
+        x: '114.5'
+        y: '67.375'
+        z: '90.5273'
+        yaw: '5.0E-4'
+        pitch: '-8.7257'
+    traitnames: type,age,skintrait,skinlayers,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      cached-skin-uuid: 50ef75e2-7605-4323-b295-b382ca54a14a
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: gbbg
+    name: GBBG
+    uuid: 1baad99e-a24c-49a1-9b21-8ca5b8cc4c1b
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: dTkfU58oJHQ8FloACRY6DymyIdGB84ns9GAWV//J48zVeECu3flkaS3fQfbkt5LQv+8hMrzZuqFiSv2cXGoKgcivzO/0m4GRr5kUQRME4dC/8nH+DH5iIZ8t0QN5D+qdML+5AOnqmDkOSKYWR+9Bs5ImGzC0jYvCiPXOto8jlpUqTUj4YwiAa40T6U0NTydgTbP0/4PV0Hdh+eOGGva1UjGN2FUwA9jYnImDt9dLSQUxCkObq2pi4Jz/VOoEJfu4DPYGfCm7U/rnzHMJuhMN0BpHSVqyMJCMXL/ON+rQgSPvsUDNsM1pKT/PwVYYgbrq52gou5J9Nobh3Ov2AcZFRwarhWaLFBIMSqA3F2tRJe4pgU7hfpkjc4EVHk0AuXrlMnWD4HtT6hRq48nK9T0/EzDqW0rodHdy2he1azPyj3rDl6k8Wnx+AJuuh+hmvcWl+whaGYaSKN9hR8R7RK71gKaVpdl06iY5xaeeaCEw9roOFSXqPP4UULdPaYcM9OgER4lJY5MDpkHzfaU05W2Q+ydUOolHUNT6p4Uh3mexEA4j6SWpW1HeEyRg/vMI4sKqIuWSL03axRWv9Ehr31zWOeahnPebzQmTcE8m38H4TjfXRl5ApPrZq1XlsEnsZiI5Imb1kBI2isYWtNsKEwFVXtjWTjBMj9PKu6GYml6OQ6E=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1NDM1ODMwMywKICAicHJvZmlsZUlkIiA6ICI1MGVmNzVlMjc2MDU0MzIzYjI5NWIzODJjYTU0YTE0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHQkJHIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1MGU5ZjIzMGIyOGIzM2U3ZjEyNGM3OWU2OWE4M2JkMDhjYzc5MjkzMDA1MTEwMjVlZTNmN2VjM2VjODVmM2MiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9
+        updateSkins: false
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world
+                x: '124.0'
+                y: '69.0'
+                z: '58.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '135.0'
+                y: '70.0'
+                z: '55.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '119.0'
+                y: '70.0'
+                z: '51.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '108.0'
+                y: '68.0'
+                z: '70.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: world
+                x: '97.0'
+                y: '68.0'
+                z: '83.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: world
+                x: '108.0'
+                y: '68.0'
+                z: '72.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 351.5865
+        world: world
+        x: '118.3711'
+        y: '68.7664'
+        z: '53.6288'
+        yaw: '-8.4135'
+        pitch: '-1.5496'
+    traitnames: type,age,skintrait,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      cached-skin-uuid: 191f2492-6d48-491a-ab95-f77edafd4c40
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: vortmort
+    name: itsdongoyt
+    uuid: adf2e5c1-b274-49b7-b98f-51e5e6f3b289
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: wg80KVrK5IvXMocIiRnDMk9cefem5l8s4kA9YRlMLZhx/ChR5BUfW1ZL92YfurMT3sIXtc9ihvXwg+goUXBUdjCtUJVb/0bagGshqzhbh/2vNNn9gkorLYwsYhWsh4ItnPNiutfQaz7KO/PZqsPXMZgiMx0bkwSt5RRIbLbrKw/TIIYcVy5opD47vtydjbo/lU2BVYoAQNIpfN0PzhkZ8bIzFm+MVdJrf5ALDJOI9Pha9PSS34lL4ULymEaUxZaS26eVGZMSgyeEbT7E26q1SLg2gTIZ3gVqmNy9AZXt20wlEJwjzcnl6TDHbQplcBGWjdfi+UoaLYIgpXZklqi8AAOmVUU5gjnR7hEjpV3VuKi4ZxhoP1ihIVcOZGvLgBsFcI4JjkJgwlq6yLxjGqfbS4v2u8mk3TWUcbS3SQ6oOAlji/4qQSxNwVgx5Tn7p02uzNN65PiPhqGyLp6z1OPD/nAoombo9hAxD+tZWKbUan99KBp2WbYzTmsf3m4I1aTmIHBPQTQr/bGtt0GkqODqA4/X8oBkexfOkzteOh5aPQzdnWBXZyqMm2GhpnG7GY2Ln+WtaAGEpOErT9A0dir1NoZWE5b9PIxGAkpgJWlEg8+ndtMOF3GILPp4f9vXivwK9jeAHF70wRbkTU6PMX5uHsLXdr1lpLPEO7Tpwc9e98g=
+        skinName: vortmort
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1NDMwNTM0MywKICAicHJvZmlsZUlkIiA6ICIxOTFmMjQ5MjZkNDg0OTFhYWI5NWY3N2VkYWZkNGM0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0TW9ydCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODY1ZmRiYmI0ZjlhNTc2N2RjNjlhMzY0YTE3Yjg1MDFiYzhiOWIyY2E5OTQyNmRkZWRjMTIxOTIxZTE1OTllIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world
+                x: '106.0'
+                y: '68.0'
+                z: '87.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '87.0'
+                y: '68.0'
+                z: '75.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '99.0'
+                y: '68.0'
+                z: '62.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 135.14154
+        world: world
+        x: '103.4005'
+        y: '67.5'
+        z: '83.4049'
+        yaw: '135.1415'
+        pitch: '-2.3615'
+    traitnames: type,age,skintrait,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      cached-skin-uuid: c0022503-de6d-4b85-b530-6de10cad1c53
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: chuanyeow
+    name: ChuanYeow
+    uuid: d0f9ae0e-e3e0-4933-94bf-6ed5524e658c
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: Y89IYQs134a1s6+kPYTYI0SKAa4oemA7ts2fG/BhCyacLgYhtJKN8WGESyyt6LA2XRnPA4Ixy3gHydoj1oJiGxjrvwLcisF2dWV0Lz73zGFs2m2tFaui3hmKj3yxef16OPXC+6hEjfYWAkzzByt13hKEmz7w3Yo/nZ98K8VXAKQYfl7jjsThGXqTXI2U/oGhbQ3heKCNOCS5jq+ioD9WguKWC8PlWspTRI+rxEXzQpUgCHadEHNF7/pMucSPeWq9G/6kZs9pKGQHu8QLnovfmREBBtPSP95es6hyH+A8u86ilLPfhDzT/ARxJUNxL4ylMfQ+S+LOoSYwqLLwvz+Ttb9NMcMmfPEH6ZIEHV75AdE83zmTUGdfV0Nacbet63erV6rrbjajt/jxm9sN8DG0Wxm/QpJ5OMCcQsh67bCE/pvX/qyQSJwp47gIOqYmYUji8N/a3PI06iTdmASqch0kGuj8Pq2SCs15cpEtN8AZR0q4rpqW06L2SCZze+u/HvI2iyS5GphiPGGhYGHnO49d+Puy+LWSex5RId2CG9Xls/a5K2c/GhionOTyMWRWqlz8gtVSe0t5xXs9w2P0hK7YCk4j1x7c79XKy1GLA/ywNet9YpYDWLvQ6kefTb30pI8/edJ54h4qam4WKDK8ukm3C4pO3Ljcfo7VTXjM6RNeEKs=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1NDAxNDI0MSwKICAicHJvZmlsZUlkIiA6ICJjMDAyMjUwM2RlNmQ0Yjg1YjUzMDZkZTEwY2FkMWM1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaHVhblllb3ciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFmNmE2YzNhMjZlNzMzOGM1MjBlOTZjNTdiODY2MDY5NGY3NjJkNTc5MzY1ZjU3MzgwM2FkY2RlMDAyMGNjOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+        updateSkins: false
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world
+                x: '96.0'
+                y: '68.0'
+                z: '74.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '101.0'
+                y: '68.0'
+                z: '86.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '111.0'
+                y: '68.0'
+                z: '86.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '106.0'
+                y: '68.0'
+                z: '66.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 129.48752
+        world: world
+        x: '109.1893'
+        y: '67.5'
+        z: '78.068'
+        yaw: '129.4875'
+        pitch: '20.9194'
+    traitnames: type,age,skintrait,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    metadata:
+      cached-skin-uuid: 2460fdce-a9d4-4ea0-b788-6bb0dd3a3757
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: ixc_
+    name: IXC_
+    uuid: a3553be2-c331-43d2-a830-4c033ec56f7b
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: ltdfQNwF/0/6v35K3SB/EuqWno9w8duNrAH/Rz/tclRR1f0MahM/nhfqh5Pw/2C09ZjBbrsPpfl5AQrvSKH35Sn1S7psTBSSaXgi4RXXABoNHoKvKo/H5S6LuU4qp1FoprfZZWsxIC7BYpd+D78oebzKhLXURI91W918i2SoHfEOe3bkb8JD2oXxy5w8tXyy4D9xBbtlXkh3j0ETOJ0dKVAqKOYVf59SKJSEnlbJH8rDMug0LC36vhv0qoAox/imvAgLFL6vqwtWTA9b9tk6SVq8zECVesihhk59T6hHZUN7fBSFmU1ocGI60OHXQ0bzfNdGb/dRQR9xux0X8aQl02WoaojqvsdjBoQgvL1vtosUBlDdOtBCgW2xZytytKHBfhdh5EuF4Ijg+g4iERpSeArMmoTfGyiQBO7lb/dw5rxhN8ThlfqoSZNxbgUiFy7i5mGRXW7bTbfwRwhBkj9Ie/S/XSr/eoMvV7958YN/czwQn1U8KBG+/UpFb5Inv95OGTzSjJWTsWumszJXveXngF12HeHYcblKsA2CF/Edo7kaZCz19xa4DxgDvnY2PS4IZYDV78xJ8pkKNMISfTvvJC6k38UXjjDMTbC5iRjaIQk8i0QOMDAZkj5OMM9oic7MDWr3KqiBW/eKd9ayHcyKineDkx97/+mSVan4lMAlzg8=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1Mzg3MjEzMywKICAicHJvZmlsZUlkIiA6ICIyNDYwZmRjZWE5ZDQ0ZWEwYjc4ODZiYjBkZDNhMzc1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJJeGNfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEwYTAzMzYzZGI0OGI0MzcyZTY0NDg0MjU4YWIxZTViZGIwYzYzMTg1MDEyN2RjZGFkNjliMjY1ZjFlZjVmMmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world
+                x: '144.0'
+                y: '69.0'
+                z: '61.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '138.0'
+                y: '69.0'
+                z: '44.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '129.0'
+                y: '69.0'
+                z: '29.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '144.0'
+                y: '69.0'
+                z: '65.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 307.33304
+        world: world
+        x: '130.7578'
+        y: '69.125'
+        z: '31.9339'
+        yaw: '-52.667'
+        pitch: '-7.3782'
+    traitnames: type,age,skintrait,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      cached-skin-uuid: a8172e94-056c-4e6c-b05f-8dbad05d7d5f
+      nameplate-visible: 'true'
+      cached-skin-uuid-name: booking
+    name: §c§lShopkeeper
+    uuid: 18c4d8ae-b5c7-432c-8658-0e897fac93ec
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: r15szRS9bXQRZRJMnbiqXTrpJ7SFY6KmvTd1e9AD4HaqjG5szW1eLH57/T/JZ9zSUOkADFUdGP1H0EhmZJ1EetVRrfb5gEPxOnxGpJHDz/NI/NAXTMXY6dLcVt3p/ofXMyKQNEByRiRfHapjIX8DwBQcLTnRNWWYG5dFOC56sYGCQXgPL8qub2n2xgodmoxVK6PgYSfBMa4b3lUzWouJHntxPUwruC7y2aB2d3oack2/276kJYAM28Ajx94QRhDyaoAViV9a58ZNjNgIA0kn6bFgDmHDwXlbCIndR/1BxQQJoZx3LcoIg9nUBGaj4d+GMX5dnD++4L9wpZh+w7DiX5g9UO7LyoYHLn8gH/w9qgrUjdLcTox9BEHQPuooeBfVT278L4jw/vZjzbdSPbtYgHyIaLFNwQUca4dcnWsaTceh/BTrxQGKiIdr3/gbWscOyGQoMnyGAV1fSFlwCvHcP2nHpgfQJh0QlmLx7S2g7bbb1AU90cZCGFE0coBeZQhgZ/azR0pVd841POCt5ZH/87l4Iuskm+CE76yj7+a2IF7F4GNUFXlBJkgpzfOUr5A29xjqQ1P/a1fUrUwDDOW4aNjNqJAByKKGpNPt1UQGUumATPqxsNugehA4jXGUUEWmKcrFfDyHgDL2E4k9/gkoWyHwTCuRCWgPPTeQXQ3hxb0=
+        skinName: Booking
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2ODI1OTQ2NjA4NywKICAicHJvZmlsZUlkIiA6ICJhODE3MmU5NDA1NmM0ZTZjYjA1ZjhkYmFkMDVkN2Q1ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb29raW5nIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdiZGNmNTRhNDNiYjU5OTI4NTY0ZWYyNTk3NmMxNTYwYmVmMzliNDQ2MjY1NjFhZGVlYThmZjUyNWM1YTc2MmUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: PLAYER
+      spawned: true
+      location:
+        bodyYaw: 69.62291
+        world: world
+        x: '24.4927'
+        y: '68.0'
+        z: '75.4825'
+        yaw: '69.6229'
+        pitch: '0.0'
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: true
+          points:
+            '0':
+              location:
+                world: world
+                x: '24.0'
+                y: '68.0'
+                z: '75.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '24.0'
+                y: '68.0'
+                z: '74.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '24.0'
+                y: '68.0'
+                z: '76.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '24.0'
+                y: '68.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      age:
+        age: 0
+        locked: true
+    traitnames: type,skintrait,mounttrait,inventory,location,age,lookclose,owner,smoothrotationtrait,scoreboardtrait,waypoints,spawned,nickname
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '19':
+    metadata:
+      nameplate-visible: 'false'
+      minecraft-ai: true
+    name: a
+    uuid: 09b13511-691e-4184-8926-882ed0d2a254
+    traits:
+      age:
+        age: 0
+        locked: true
+      spawned: true
+      type: CHICKEN
+      location:
+        bodyYaw: 218.73349
+        world: world
+        x: '154.8468'
+        y: '68.0'
+        z: '-18.9605'
+        yaw: '-84.392'
+        pitch: '0.0'
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+    traitnames: type,age,owner,scoreboardtrait,spawned,mounttrait,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '20':
+    metadata:
+      cached-skin-uuid: b4733311-a93c-4b40-9a92-0ab907660752
+      nameplate-visible: 'false'
+      cached-skin-uuid-name: chicken
+    name: chicken
+    uuid: 0a313361-900d-46cf-b8f2-5f3e5efcd6da
+    traits:
+      spawned: true
+      type: CHICKEN
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+          points:
+            '0':
+              location:
+                world: world2
+                x: '2376.0'
+                y: '63.0'
+                z: '-646.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world2
+                x: '2376.0'
+                y: '63.0'
+                z: '-669.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world2
+                x: '2377.0'
+                y: '63.0'
+                z: '-642.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        bodyYaw: 150.96492
+        world: world2
+        x: '2377.7638'
+        y: '63.0'
+        z: '-644.0196'
+        yaw: '150.9649'
+        pitch: '0.0'
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      age:
+        age: 0
+        locked: true
+      skintrait:
+        fetchDefaultSkin: true
+        signature: IxlDUkKQRSmST0ubbtQRJwSV2dza3c6GHb4ZCmtdU5w/UXH2NHc1C5/1oGE0UOu3o143ZjwRHhwY2yGAs/ncEQrCvkmG7Sl1BS2W75pN5GjLRkFSP104uceOOgA2YzUEGAb0VIrm+b17K3u8vqkpZqPu9Nqdj6nnfBZLq7P8GvkxDDtD/I+0X9s7hLmZU9+2NfWGzV7ihRiotd1xb2hguBXkfbgrZwU/WQDF0Wz5aWdAJIVnm5LchWHpulHuYd6tYnUM864Wq/Hp28JuWqrrX86hvACmPV+mSR9n2CrRHQtTpklFwsUmy9TZBPDbO4dCAa8RTmDUCN4lUlJB8T7Xxmfqw/h3DPD7udXbhUok0b9/aDBvuVvonfK4JjTSCr5+jKL4uTEOr2AwdpCLiqqQKhA+mnZ6bqSBAjqgwN4L/bn3Yp78PXpJ1eG/5NH4duHynZXB9i1kkSRSY5g6SX5/Zc/kBgBDyz0sli3IaDrnB9dJHpJb1IRAWmPH589cm+r49lYrLPyZg2leHaYFtt25d6L2IcjUnr5Y6pSvvICXXb5PWAi0fvnvWWIHTjQpFe3t+7IvifwssMhjE8WGm1G6MpFbE+eVBdDcHz105hcIvhQQJhjo99JdPkxDz+pExJWlFKx+am8FUINRwZ4ye4aQC/FVTnSFKK0oFzRrwEeKuT0=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY3MDMyNjc5NDIzNywKICAicHJvZmlsZUlkIiA6ICJiNDczMzMxMWE5M2M0YjQwOWE5MjBhYjkwNzY2MDc1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGlja2VuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhNTcxYTU4N2QzNzkyMDFmZjVkYWY1OTY3YmU1OWZjYjg2ZmNkNjA5N2RhNGVkN2RiMWEyM2QwOWM4NzVjOWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lN2RmZWExNmRjODNjOTdkZjAxYTEyZmFiYmQxMjE2MzU5YzBjZDBlYTQyZjk5OTliNmU5N2M1ODQ5NjNlOTgwIgogICAgfQogIH0KfQ==
+        updateSkins: false
+    traitnames: type,age,skintrait,owner,scoreboardtrait,waypoints,spawned,mounttrait,inventory,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

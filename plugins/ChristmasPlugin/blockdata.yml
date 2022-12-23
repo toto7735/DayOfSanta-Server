@@ -1,0 +1,1083 @@
+
+'1':
+  blockdata: minecraft:barrier
+  location: world,80.0,80.0,73.0
+  spawnafter: 0
+  fallheight: 0
+'2':
+  blockdata: minecraft:barrier
+  location: world,80.0,80.0,74.0
+  spawnafter: 0
+  fallheight: 0
+'3':
+  blockdata: minecraft:barrier
+  location: world,80.0,80.0,75.0
+  spawnafter: 0
+  fallheight: 0
+'5':
+  blockdata: minecraft:barrier
+  location: world,81.0,80.0,73.0
+  spawnafter: 0
+  fallheight: 0
+'6':
+  blockdata: minecraft:barrier
+  location: world,81.0,80.0,74.0
+  spawnafter: 0
+  fallheight: 0
+'7':
+  blockdata: minecraft:barrier
+  location: world,81.0,80.0,75.0
+  spawnafter: 0
+  fallheight: 0
+'8':
+  blockdata: minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+  location: world,84.0,80.0,74.0
+  spawnafter: 0
+  fallheight: 0
+'9':
+  blockdata: minecraft:barrier
+  location: world,88.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'10':
+  blockdata: minecraft:barrier
+  location: world,88.0,80.0,73.0
+  spawnafter: 0
+  fallheight: 0
+'11':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,88.0,80.0,74.0
+  spawnafter: 40
+  fallheight: 0
+'12':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,88.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'13':
+  blockdata: minecraft:repeater[delay=1,facing=south,locked=false,powered=false]
+  location: world,88.0,81.0,73.0
+  spawnafter: 40
+  fallheight: 0
+'14':
+  blockdata: minecraft:light_weighted_pressure_plate[power=0]
+  location: world,88.0,81.0,74.0
+  spawnafter: 40
+  fallheight: 0
+'15':
+  blockdata: minecraft:barrier
+  location: world,89.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'16':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]
+  location: world,89.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'17':
+  blockdata: minecraft:barrier
+  location: world,90.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'18':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]
+  location: world,90.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'19':
+  blockdata: minecraft:barrier
+  location: world,91.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'20':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,91.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'21':
+  blockdata: minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+  location: world,91.0,81.0,74.0
+  spawnafter: 40
+  fallheight: 0
+'22':
+  blockdata: minecraft:barrier
+  location: world,92.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'23':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,92.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'24':
+  blockdata: minecraft:barrier
+  location: world,93.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'25':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,93.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'26':
+  blockdata: minecraft:barrier
+  location: world,94.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'27':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]
+  location: world,94.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'28':
+  blockdata: minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+  location: world,94.0,82.0,75.0
+  spawnafter: 40
+  fallheight: 0
+'29':
+  blockdata: minecraft:barrier
+  location: world,95.0,80.0,71.0
+  spawnafter: 0
+  fallheight: 0
+'30':
+  blockdata: minecraft:barrier
+  location: world,95.0,80.0,72.0
+  spawnafter: 0
+  fallheight: 0
+'31':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,95.0,81.0,71.0
+  spawnafter: 40
+  fallheight: 0
+'32':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,95.0,81.0,72.0
+  spawnafter: 40
+  fallheight: 0
+'33':
+  blockdata: minecraft:barrier
+  location: world,96.0,80.0,71.0
+  spawnafter: 40
+  fallheight: 0
+'34':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,96.0,81.0,71.0
+  spawnafter: 40
+  fallheight: 0
+'35':
+  blockdata: minecraft:barrier
+  location: world,97.0,80.0,70.0
+  spawnafter: 0
+  fallheight: 0
+'36':
+  blockdata: minecraft:barrier
+  location: world,97.0,80.0,71.0
+  spawnafter: 0
+  fallheight: 0
+'37':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,97.0,81.0,70.0
+  spawnafter: 40
+  fallheight: 0
+'38':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,97.0,81.0,71.0
+  spawnafter: 40
+  fallheight: 0
+'39':
+  blockdata: minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+  location: world,97.0,83.0,73.0
+  spawnafter: 40
+  fallheight: 0
+'40':
+  blockdata: minecraft:barrier
+  location: world,98.0,80.0,70.0
+  spawnafter: 0
+  fallheight: 0
+'41':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,98.0,81.0,70.0
+  spawnafter: 40
+  fallheight: 0
+'42':
+  blockdata: minecraft:barrier
+  location: world,99.0,80.0,68.0
+  spawnafter: 0
+  fallheight: 0
+'43':
+  blockdata: minecraft:barrier
+  location: world,99.0,80.0,69.0
+  spawnafter: 0
+  fallheight: 0
+'44':
+  blockdata: minecraft:barrier
+  location: world,99.0,80.0,70.0
+  spawnafter: 0
+  fallheight: 0
+'45':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,99.0,81.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'46':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]
+  location: world,99.0,81.0,69.0
+  spawnafter: 40
+  fallheight: 0
+'47':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,99.0,81.0,70.0
+  spawnafter: 40
+  fallheight: 0
+'48':
+  blockdata: minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+  location: world,99.0,84.0,71.0
+  spawnafter: 40
+  fallheight: 0
+'49':
+  blockdata: minecraft:barrier
+  location: world,100.0,80.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'50':
+  blockdata: minecraft:barrier
+  location: world,100.0,80.0,69.0
+  spawnafter: 40
+  fallheight: 0
+'51':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,100.0,81.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'52':
+  blockdata: minecraft:barrier
+  location: world,101.0,80.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'53':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,101.0,81.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'54':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,101.0,87.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'55':
+  blockdata: minecraft:barrier
+  location: world,102.0,80.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'56':
+  blockdata: minecraft:barrier
+  location: world,102.0,80.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'57':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,102.0,81.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'58':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,102.0,81.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'59':
+  blockdata: minecraft:lantern[hanging=true,waterlogged=false]
+  location: world,102.0,83.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'60':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,84.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'61':
+  blockdata: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,85.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'62':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,86.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'63':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,87.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'64':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,88.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'65':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,89.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'66':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,102.0,90.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'67':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=false,waterlogged=false]
+  location: world,102.0,90.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'68':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,102.0,90.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'69':
+  blockdata: minecraft:barrier
+  location: world,103.0,80.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'70':
+  blockdata: minecraft:barrier
+  location: world,103.0,80.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'71':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,103.0,81.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'72':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,103.0,81.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'73':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,103.0,88.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'74':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=false,waterlogged=false]
+  location: world,103.0,89.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'75':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,103.0,89.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'76':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,103.0,90.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'77':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=false,waterlogged=false]
+  location: world,103.0,90.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'78':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,103.0,91.0,68.0
+  spawnafter: 40
+  fallheight: 0
+'79':
+  blockdata: minecraft:barrier
+  location: world,104.0,80.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'80':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,104.0,81.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'81':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,104.0,89.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'82':
+  blockdata: minecraft:birch_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+  location: world,104.0,89.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'83':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,104.0,90.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'84':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=false,waterlogged=false]
+  location: world,104.0,90.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'85':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,104.0,90.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'86':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=false,waterlogged=false]
+  location: world,104.0,91.0,67.0
+  spawnafter: 40
+'87':
+  blockdata: minecraft:barrier
+  location: world,105.0,80.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'88':
+  blockdata: minecraft:barrier
+  location: world,105.0,80.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'89':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,105.0,81.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'90':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,105.0,81.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'91':
+  blockdata: minecraft:lantern[hanging=true,waterlogged=false]
+  location: world,105.0,82.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'92':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,105.0,83.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'93':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,105.0,84.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'94':
+  blockdata: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,105.0,85.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'95':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,105.0,86.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'96':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,105.0,87.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'97':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  location: world,105.0,88.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'98':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,105.0,89.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'99':
+  blockdata: minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+  location: world,105.0,89.0,66.0
+  spawnafter: 40
+  fallheight: 0
+'100':
+  blockdata: minecraft:barrier
+  location: world,106.0,80.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'101':
+  blockdata: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  location: world,106.0,81.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'102':
+  blockdata: minecraft:barrier
+  location: world,107.0,79.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'103':
+  blockdata: minecraft:barrier
+  location: world,107.0,80.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'104':
+  blockdata: minecraft:barrier
+  location: world,107.0,80.0,64.0
+  spawnafter: 40
+  fallheight: 0
+'105':
+  blockdata: minecraft:barrier
+  location: world,107.0,80.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'106':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]
+  location: world,107.0,81.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'107':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]
+  location: world,107.0,81.0,64.0
+  spawnafter: 40
+  fallheight: 0
+'108':
+  blockdata: minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]
+  location: world,107.0,81.0,65.0
+  spawnafter: 40
+  fallheight: 0
+'109':
+  blockdata: minecraft:barrier
+  location: world,108.0,78.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'110':
+  blockdata: minecraft:barrier
+  location: world,108.0,79.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'111':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=up]
+  location: world,108.0,80.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'112':
+  blockdata: minecraft:barrier
+  location: world,109.0,78.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'113':
+  blockdata: minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=up]
+  location: world,109.0,79.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'114':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,110.0,79.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'115':
+  blockdata: minecraft:slime_block
+  location: world,110.0,80.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'116':
+  blockdata: minecraft:diamond_block
+  location: world,114.0,82.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'118':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,102.0,92.0,67.0
+  spawnafter: 0
+'119':
+  blockdata: minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,103.0,92.0,68.0
+  spawnafter: 40
+'121':
+  blockdata: minecraft:diamond_block
+  location: world,114.0,82.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'123':
+  blockdata: minecraft:diamond_block
+  location: world,118.0,83.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'124':
+  blockdata: minecraft:diamond_block
+  location: world,121.0,84.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'125':
+  blockdata: minecraft:diamond_block
+  location: world,125.0,85.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'126':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,128.0,85.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'127':
+  blockdata: minecraft:snow_block
+  location: world,128.0,85.0,61.0
+  spawnafter: 40
+  fallheight: 0
+'128':
+  blockdata: minecraft:slime_block
+  location: world,128.0,86.0,60.0
+  spawnafter: 40
+  fallheight: 0
+'129':
+  blockdata: minecraft:stone_button[face=floor,facing=north,powered=false]
+  location: world,128.0,86.0,61.0
+  spawnafter: 40
+  fallheight: 0
+'130':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,128.0,90.0,61.0
+  spawnafter: 40
+  fallheight: 0
+'131':
+  blockdata: minecraft:snow_block
+  location: world,128.0,90.0,62.0
+  spawnafter: 40
+  fallheight: 0
+'132':
+  blockdata: minecraft:slime_block
+  location: world,128.0,91.0,61.0
+  spawnafter: 40
+  fallheight: 0
+'133':
+  blockdata: minecraft:stone_button[face=floor,facing=north,powered=false]
+  location: world,128.0,91.0,62.0
+  spawnafter: 40
+  fallheight: 0
+'134':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,128.0,95.0,62.0
+  spawnafter: 40
+  fallheight: 0
+'135':
+  blockdata: minecraft:snow_block
+  location: world,128.0,95.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'136':
+  blockdata: minecraft:slime_block
+  location: world,128.0,96.0,62.0
+  spawnafter: 40
+  fallheight: 0
+'137':
+  blockdata: minecraft:stone_button[face=floor,facing=north,powered=false]
+  location: world,128.0,96.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'138':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,128.0,100.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'139':
+  blockdata: minecraft:snow_block
+  location: world,128.0,100.0,64.0
+  spawnafter: 40
+  fallheight: 0
+'140':
+  blockdata: minecraft:slime_block
+  location: world,128.0,101.0,63.0
+  spawnafter: 40
+  fallheight: 0
+'141':
+  blockdata: minecraft:stone_button[face=floor,facing=north,powered=false]
+  location: world,128.0,101.0,64.0
+  spawnafter: 40
+  fallheight: 0
+'150':
+  blockdata: minecraft:bricks
+  location: world,142.0,107.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'151':
+  blockdata: minecraft:bricks
+  location: world,147.0,108.0,67.0
+  spawnafter: 40
+  fallheight: 0
+'153':
+  blockdata: minecraft:bricks
+  location: world,137.0,106.0,67.0
+  spawnafter: 20
+  fallheight: 0
+'154':
+  blockdata: minecraft:polished_andesite
+  location: world,151.0,108.0,67.0
+  spawnafter: 20
+  fallheight: 0
+'156':
+  blockdata: minecraft:snow_block
+  location: world,160.0,95.0,61.0
+  spawnafter: 20
+  fallheight: 0
+'157':
+  blockdata: minecraft:snow_block
+  location: world,160.0,96.0,60.0
+  spawnafter: 20
+  fallheight: 0
+'158':
+  blockdata: minecraft:snow_block
+  location: world,160.0,97.0,59.0
+  spawnafter: 20
+  fallheight: 0
+'159':
+  blockdata: minecraft:snow_block
+  location: world,160.0,98.0,58.0
+  spawnafter: 20
+  fallheight: 0
+'160':
+  blockdata: minecraft:snow_block
+  location: world,160.0,99.0,57.0
+  spawnafter: 20
+  fallheight: 0
+'161':
+  blockdata: minecraft:snow_block
+  location: world,161.0,95.0,61.0
+  spawnafter: 20
+  fallheight: 0
+'162':
+  blockdata: minecraft:snow_block
+  location: world,161.0,96.0,60.0
+  spawnafter: 20
+  fallheight: 0
+'163':
+  blockdata: minecraft:snow_block
+  location: world,161.0,97.0,59.0
+  spawnafter: 20
+  fallheight: 0
+'164':
+  blockdata: minecraft:snow_block
+  location: world,161.0,98.0,58.0
+  spawnafter: 20
+  fallheight: 0
+'165':
+  blockdata: minecraft:snow_block
+  location: world,161.0,99.0,57.0
+  spawnafter: 20
+  fallheight: 0
+'167':
+  blockdata: minecraft:snow_block
+  location: world,160.0,95.0,61.0
+  spawnafter: 20
+  fallheight: 0
+'168':
+  blockdata: minecraft:snow_block
+  location: world,160.0,96.0,60.0
+  spawnafter: 20
+  fallheight: 0
+'169':
+  blockdata: minecraft:snow_block
+  location: world,160.0,97.0,59.0
+  spawnafter: 20
+  fallheight: 0
+'170':
+  blockdata: minecraft:snow_block
+  location: world,160.0,98.0,58.0
+  spawnafter: 20
+  fallheight: 0
+'171':
+  blockdata: minecraft:snow_block
+  location: world,160.0,99.0,57.0
+  spawnafter: 20
+  fallheight: 0
+'172':
+  blockdata: minecraft:snow_block
+  location: world,161.0,95.0,61.0
+  spawnafter: 20
+  fallheight: 0
+'173':
+  blockdata: minecraft:snow_block
+  location: world,161.0,96.0,60.0
+  spawnafter: 20
+  fallheight: 0
+'174':
+  blockdata: minecraft:snow_block
+  location: world,161.0,97.0,59.0
+  spawnafter: 20
+  fallheight: 0
+'175':
+  blockdata: minecraft:snow_block
+  location: world,161.0,98.0,58.0
+  spawnafter: 20
+  fallheight: 0
+'176':
+  blockdata: minecraft:snow_block
+  location: world,161.0,99.0,57.0
+  spawnafter: 20
+  fallheight: 0
+'177':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,147.0,98.0,13.0
+  spawnafter: 20
+  fallheight: 0
+'178':
+  blockdata: minecraft:slime_block
+  location: world,147.0,99.0,13.0
+  spawnafter: 20
+  fallheight: 0
+'179':
+  blockdata: minecraft:sticky_piston[extended=false,facing=up]
+  location: world,148.0,98.0,21.0
+  spawnafter: 20
+  fallheight: 0
+'180':
+  blockdata: minecraft:slime_block
+  location: world,148.0,99.0,21.0
+  spawnafter: 20
+  fallheight: 0
+'181':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,149.0,99.0,25.0
+  spawnafter: 20
+  fallheight: 0
+'182':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,151.0,99.0,29.0
+  spawnafter: 20
+  fallheight: 0
+'183':
+  blockdata: minecraft:polished_andesite
+  location: world,151.0,108.0,67.0
+  spawnafter: 20
+  fallheight: 0
+'184':
+  blockdata: minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+  location: world,154.0,100.0,33.0
+  spawnafter: 20
+  fallheight: 0
+'185':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,155.0,101.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'186':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,155.0,102.0,47.0
+  spawnafter: 20
+  fallheight: 0
+'187':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,155.0,102.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'188':
+  blockdata: minecraft:soul_lantern[hanging=true,waterlogged=false]
+  location: world,156.0,96.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'189':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,156.0,97.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'190':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,156.0,98.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'191':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,156.0,99.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'192':
+  blockdata: minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+  location: world,156.0,100.0,37.0
+  spawnafter: 20
+  fallheight: 0
+'193':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,156.0,100.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'194':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,156.0,101.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'195':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,156.0,102.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'196':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,156.0,102.0,49.0
+  spawnafter: 20
+  fallheight: 0
+'197':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,156.0,103.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'198':
+  blockdata: minecraft:redstone_torch[lit=true]
+  location: world,156.0,104.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'199':
+  blockdata: minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+  location: world,157.0,99.0,48.0
+  spawnafter: 20
+  fallheight: 0
+'200':
+  blockdata: minecraft:slime_block
+  location: world,158.0,91.0,66.0
+  spawnafter: 20
+  fallheight: 0
+'201':
+  blockdata: minecraft:snow_block
+  location: world,158.0,99.0,41.0
+  spawnafter: 20
+  fallheight: 0
+'202':
+  blockdata: minecraft:snow_block
+  location: world,158.0,99.0,42.0
+  spawnafter: 20
+  fallheight: 0
+'203':
+  blockdata: minecraft:snow_block
+  location: world,158.0,99.0,43.0
+  spawnafter: 20
+  fallheight: 0
+'204':
+  blockdata: minecraft:snow_block
+  location: world,158.0,99.0,44.0
+  spawnafter: 20
+  fallheight: 0
+'205':
+  blockdata: minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+  location: world,159.0,99.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'206':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,159.0,105.0,51.0
+  spawnafter: 20
+  fallheight: 0
+'207':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,159.0,105.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'208':
+  blockdata: minecraft:soul_lantern[hanging=true,waterlogged=false]
+  location: world,160.0,96.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'209':
+  blockdata: minecraft:snow_block
+  location: world,160.0,96.0,60.0
+  spawnafter: 20
+  fallheight: 0
+'210':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,97.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'211':
+  blockdata: minecraft:snow_block
+  location: world,160.0,97.0,59.0
+  spawnafter: 20
+  fallheight: 0
+'212':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,98.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'213':
+  blockdata: minecraft:snow_block
+  location: world,160.0,98.0,58.0
+  spawnafter: 20
+  fallheight: 0
+'214':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,99.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'215':
+  blockdata: minecraft:snow_block
+  location: world,160.0,99.0,57.0
+  spawnafter: 20
+  fallheight: 0
+'216':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,100.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'217':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,101.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'218':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,102.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'219':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,103.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'220':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,160.0,104.0,51.0
+  spawnafter: 20
+  fallheight: 0
+'221':
+  blockdata: minecraft:chain[axis=y,waterlogged=false]
+  location: world,160.0,104.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'222':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,160.0,104.0,53.0
+  spawnafter: 20
+  fallheight: 0
+'223':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,160.0,105.0,51.0
+  spawnafter: 20
+  fallheight: 0
+'224':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,160.0,105.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'225':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,160.0,105.0,53.0
+  spawnafter: 20
+  fallheight: 0
+'226':
+  blockdata: minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]
+  location: world,160.0,106.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'227':
+  blockdata: minecraft:redstone_torch[lit=true]
+  location: world,160.0,107.0,52.0
+  spawnafter: 20
+  fallheight: 0
+'228':
+  blockdata: minecraft:snow_block
+  location: world,161.0,96.0,60.0
+  spawnafter: 20
+  fallheight: 0
+'229':
+  blockdata: minecraft:snow_block
+  location: world,161.0,97.0,59.0
+  spawnafter: 20
+  fallheight: 0
+'230':
+  blockdata: minecraft:snow_block
+  location: world,161.0,98.0,58.0
+  spawnafter: 20
+  fallheight: 0
+'231':
+  blockdata: minecraft:snow_block
+  location: world,161.0,99.0,57.0
+  spawnafter: 20
+  fallheight: 0
+'232':
+  blockdata: minecraft:cobweb
+  location: world,162.0,91.0,67.0
+  spawnafter: 20
+  fallheight: 0

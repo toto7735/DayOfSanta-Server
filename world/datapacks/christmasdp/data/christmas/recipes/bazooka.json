@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " O#",
+      "OXO",
+      "OO "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:gunpowder"
+      },
+      "X": {
+        "item": "minecraft:redstone"
+      },
+      "O": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book",
+      "count": 1
+    }
+  }
+
+
+
+
